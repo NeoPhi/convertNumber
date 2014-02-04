@@ -1,0 +1,21 @@
+{
+  "name": "convertNumber",
+  "version": "0.0.0",
+  "description": "Convert numbers between various formats",
+  "scripts": {
+    "test": "istanbul test jasmine-node -- test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NeoPhi/convertNumber.git"
+  },
+  "author": "Daniel Rinehart <danielr@neophi.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NeoPhi/convertNumber/issues"
+  },
+  "dependencies": {
+    "jasmine-node": "~1.13.1",
+    "istanbul": "~0.2.4"
+  }
+}
